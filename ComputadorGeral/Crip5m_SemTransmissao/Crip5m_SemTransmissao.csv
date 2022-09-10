@@ -1,128 +1,127 @@
-
- memoria ; bateria,cpu ; crip ;   ;
-  2 ; 95 ; 97 ; ##CHACHA## ;
-  2 ; 95 ; 97 ; ##CHACHA## ;
-  2 ; 95 ; 97 ; ##CHACHA## ;
-  2 ; 95 ; 97 ; ##CHACHA## ;
-  2 ; 95 ; 97 ; ##CHACHA## ;
-  2 ; 95 ; 97 ; ##CHACHA## ;
-  2 ; 95 ; 98 ; ##CHACHA## ;
-  2 ; 95 ; 95 ; ##CHACHA## ;
-  2 ; 95 ; 97 ; ##CHACHA## ;
-  2 ; 95 ; 97 ; ##CHACHA## ;
-  2 ; 95 ; 96 ; ##CHACHA## ;
-  2 ; 95 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 98 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 95 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 95 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 95 ; ##CHACHA## ;
-  2 ; 97 ; 95 ; ##CHACHA## ;
-  2 ; 97 ; 95 ; ##CHACHA## ;
-  2 ; 97 ; 98 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 95 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 95 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 95 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 96 ; ##CHACHA## ;
-  2 ; 97 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 95 ; ##CHACHA## ;
-  2 ; 99 ; 95 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 95 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 86 ; ##CHACHA## ;
-  2 ; 99 ; 84 ; ##CHACHA## ;
-  2 ; 99 ; 90 ; ##CHACHA## ;
-  2 ; 99 ; 89 ; ##CHACHA## ;
-  2 ; 99 ; 86 ; ##CHACHA## ;
-  2 ; 99 ; 98 ; ##CHACHA## ;
-  2 ; 99 ; 99 ; ##CHACHA## ;
-  2 ; 99 ; 98 ; ##CHACHA## ;
-  2 ; 99 ; 99 ; ##CHACHA## ;
-  2 ; 99 ; 99 ; ##CHACHA## ;
-  2 ; 99 ; 99 ; ##CHACHA## ;
-  2 ; 99 ; 98 ; ##CHACHA## ;
-  2 ; 99 ; 98 ; ##CHACHA## ;
-  2 ; 99 ; 99 ; ##CHACHA## ;
-  2 ; 99 ; 94 ; ##CHACHA## ;
-  2 ; 99 ; 95 ; ##CHACHA## ;
-  2 ; 99 ; 95 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 95 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 98 ; ##CHACHA## ;
-  2 ; 99 ; 98 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 98 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 95 ; ##CHACHA## ;
-  2 ; 99 ; 98 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 96 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 99 ; 97 ; ##CHACHA## ;
-  2 ; 100 ; 99 ; ##CHACHA## ;
-  2 ; 100 ; 96 ; ##CHACHA## ;
-  2 ; 100 ; 95 ; ##CHACHA## ;
-  2 ; 100 ; 99 ; ##CHACHA## ;
-  2 ; 100 ; 97 ; ##CHACHA## ;
-  2 ; 100 ; 97 ; ##CHACHA## ;
-  2 ; 100 ; 96 ; ##CHACHA## ;
-  2 ; 100 ; 95 ; ##CHACHA## ;
-  2 ; 100 ; 93 ; ##CHACHA## ;
-  2 ; 100 ; 95 ; ##CHACHA## ;
-  2 ; 100 ; 99 ; ##CHACHA## ;
-  2 ; 100 ; 95 ; ##CHACHA## ;
-  2 ; 100 ; 88 ; ##CHACHA## ;
+ memoria, bateria, cpu, crip,
+  2, 95, 97, ##CHACHA##,
+  2, 95, 97, ##CHACHA##,
+  2, 95, 97, ##CHACHA##,
+  2, 95, 97, ##CHACHA##,
+  2, 95, 97, ##CHACHA##,
+  2, 95, 97, ##CHACHA##,
+  2, 95, 98, ##CHACHA##,
+  2, 95, 95, ##CHACHA##,
+  2, 95, 97, ##CHACHA##,
+  2, 95, 97, ##CHACHA##,
+  2, 95, 96, ##CHACHA##,
+  2, 95, 96, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 98, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 95, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 95, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 95, ##CHACHA##,
+  2, 97, 95, ##CHACHA##,
+  2, 97, 95, ##CHACHA##,
+  2, 97, 98, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 95, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 95, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 95, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 96, ##CHACHA##,
+  2, 97, 97, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 99, 95, ##CHACHA##,
+  2, 99, 95, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 99, 95, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 86, ##CHACHA##,
+  2, 99, 84, ##CHACHA##,
+  2, 99, 90, ##CHACHA##,
+  2, 99, 89, ##CHACHA##,
+  2, 99, 86, ##CHACHA##,
+  2, 99, 98, ##CHACHA##,
+  2, 99, 99, ##CHACHA##,
+  2, 99, 98, ##CHACHA##,
+  2, 99, 99, ##CHACHA##,
+  2, 99, 99, ##CHACHA##,
+  2, 99, 99, ##CHACHA##,
+  2, 99, 98, ##CHACHA##,
+  2, 99, 98, ##CHACHA##,
+  2, 99, 99, ##CHACHA##,
+  2, 99, 94, ##CHACHA##,
+  2, 99, 95, ##CHACHA##,
+  2, 99, 95, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 95, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 98, ##CHACHA##,
+  2, 99, 98, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 99, 98, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 95, ##CHACHA##,
+  2, 99, 98, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 99, 96, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 99, 97, ##CHACHA##,
+  2, 100, 99, ##CHACHA##,
+  2, 100, 96, ##CHACHA##,
+  2, 100, 95, ##CHACHA##,
+  2, 100, 99, ##CHACHA##,
+  2, 100, 97, ##CHACHA##,
+  2, 100, 97, ##CHACHA##,
+  2, 100, 96, ##CHACHA##,
+  2, 100, 95, ##CHACHA##,
+  2, 100, 93, ##CHACHA##,
+  2, 100, 95, ##CHACHA##,
+  2, 100, 99, ##CHACHA##,
+  2, 100, 95, ##CHACHA##,
+  2, 100, 88, ##CHACHA##,
